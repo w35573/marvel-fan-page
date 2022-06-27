@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: #000;
+}
+
+nav {
+  padding: 1.5em 4em;
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10.5px);
+}
+
+#bg-vdo {
+  object-fit: cover;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  margin-right: 40%;
+  text-align: center;
+  height: 40px;
+}
+
+.logo img {
+  height: 40px;
+  height: 100%;
+}
+
+.menus {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menus {
+  width: 52.941761363%;
+}
+
+.menus li {
+  list-style: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.menus li a {
+  text-decoration: none;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.about-marvel {
+  position: absolute;
+  padding: 1.5em 4em;
+  color: #fff;
+  margin-top: 5em;
+  max-width: 55%;
+  transform: translateY(calc(-100% - 168px));
+}
+
+.mcu-title {
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.mcu-description {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+}
+
+#explore-btn {
+  text-transform: uppercase;
+  width: 150px;
+  height: 50px;
+  font-size: 1em;
+  color: #fff;
+  border: #fff solid 1px;
+  background-color: transparent;
+  letter-spacing: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.menus li:hover,
+#explore-btn:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+#explore-btn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+footer {
+  padding: 1.5em 4em;
+  color: #fff;
+}

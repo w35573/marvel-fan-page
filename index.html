@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Marvel</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+
+  <body>
+    <video src="video/background.mp4" autoplay muted loop id="bg-vdo"></video>
+
+    <nav class="fixed-top">
+      <div class="logo">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg"
+          alt="marvel-logo"
+        />
+      </div>
+      <ul class="menus">
+        <li><a href="#">Movies</a></li>
+        <li><a href="#">TV shows</a></li>
+        <li><a href="#">Comics</a></li>
+        <li><a href="#">Animation</a></li>
+        <li><a href="#">Weapons</a></li>
+      </ul>
+    </nav>
+
+    <main class="content">
+      <div class="about-marvel">
+        <p class="mcu-title">Marvel Cinematic Universe</p>
+        <p class="mcu-description">
+          The Marvel Cinematic Universe (MCU) is an American media franchise and
+          shared universe centered on a series of superhero films produced by
+          Marvel Studios. The films are based on characters that appear in
+          American comic books published by Marvel Comics. The franchise also
+          includes television series, short films, digital series, and
+          literature. The shared universe, much like the original Marvel
+          Universe in comic books, was established by crossing over common plot
+          elements, settings, cast, and characters.
+        </p>
+        <button id="explore-btn">explore</button>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2022 Marvel</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="scripts/app.js"></script>
+  </body>
+</html>
