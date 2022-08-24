@@ -20,46 +20,53 @@
   </head>
 
   <body>
-    <video src="video/background.mp4" autoplay muted loop id="bg-vdo"></video>
+    <section>
+      <nav>
+        <a href="#">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg"
+            alt="marvel-logo"
+            class="logo"
+          />
+        </a>
 
-    <nav class="fixed-top">
-      <div class="logo">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg"
-          alt="marvel-logo"
-        />
+        <ul class="navigation">
+          <li><a href="#">Movies</a></li>
+          <li><a href="#">TV Shows</a></li>
+          <li><a href="#">Comics</a></li>
+          <li><a href="#">Characters</a></li>
+          <li><a href="#">Animations</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </nav>
+
+      <video src="video/background.mp4" autoplay muted loop id="bg-vdo"></video>
+
+      <div class="content">
+        <div class="textBox">
+          <h2>Marvel Cinematic Universe</h2>
+          <p>
+            The Marvel Cinematic Universe (MCU) is an American media franchise
+            and shared universe centered on a series of superhero films produced
+            by Marvel Studios. The films are based on characters that appear in
+            American comic books published by Marvel Comics. The franchise also
+            includes television series, short films, digital series, and
+            literature. The shared universe, much like the original Marvel
+            Universe in comic books, was established by crossing over common
+            plot elements, settings, cast, and characters.
+          </p>
+
+          <button id="explore-btn">explore</button>
+        </div>
       </div>
-      <ul class="menus">
-        <li><a href="#">Movies</a></li>
-        <li><a href="#">TV shows</a></li>
-        <li><a href="#">Comics</a></li>
-        <li><a href="#">Animation</a></li>
-        <li><a href="#">Weapons</a></li>
-      </ul>
-    </nav>
+    </section>
 
-    <main class="content">
-      <div class="about-marvel">
-        <p class="mcu-title">Marvel Cinematic Universe</p>
-        <p class="mcu-description">
-          The Marvel Cinematic Universe (MCU) is an American media franchise and
-          shared universe centered on a series of superhero films produced by
-          Marvel Studios. The films are based on characters that appear in
-          American comic books published by Marvel Comics. The franchise also
-          includes television series, short films, digital series, and
-          literature. The shared universe, much like the original Marvel
-          Universe in comic books, was established by crossing over common plot
-          elements, settings, cast, and characters.
-        </p>
-        <button id="explore-btn">explore</button>
-      </div>
-    </main>
-
-    <footer>
-      <p>&copy; 2022 Marvel</p>
-    </footer>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chance/1.1.8/chance.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="scripts/app.js"></script>
+    <!-- <script src="scripts/snap.js"></script> -->
   </body>
 </html>
