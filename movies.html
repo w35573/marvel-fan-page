@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies</title>
+    <link rel="stylesheet" href="./styles/movies.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+    />
+  </head>
+
+  <body>
+    <header>
+      <a href="index.html">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg"
+          alt="marvel-logo"
+          class="logo"
+        />
+      </a>
+
+      <div class="bx bx-menu" id="menu-icon"></div>
+
+      <ul class="navigation">
+        <li><a href="movies.html" class="home-active">Movies</a></li>
+        <li><a href="tv.html">TV Shows</a></li>
+        <li><a href="characters.html">Characters</a></li>
+        <li><a href="timeline.html">Timeline</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </header>
+
+    <section class="home swiper" id="home">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide container">
+          <img src="./img/home1.jpg" alt="img" />
+          <div class="home-text">
+            <h1>
+              Venom: Let There <br />
+              Be Carnage
+            </h1>
+            <a href="#" class="btn">Read More</a>
+            <a href="#" class="play">
+              <i class="bx bx-play"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- box-2 -->
+        <div class="swiper-slide container">
+          <img src="./img/home2.jpg" alt="img" />
+          <div class="home-text">
+            <h1>
+              Avengers: <br />
+              Infinity War
+            </h1>
+            <a href="#" class="btn">Read More</a>
+            <a href="#" class="play">
+              <i class="bx bx-play"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- box-3 -->
+        <div class="swiper-slide container">
+          <img src="./img/home3.jpg" alt="img" />
+          <div class="home-text">
+            <h1>
+              Spider-Man: <br />
+              Far from Home
+            </h1>
+            <a href="#" class="btn">Read More</a>
+            <a href="#" class="play">
+              <i class="bx bx-play"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-pagination"></div>
+    </section>
+
+    <section class="coming" id="coming">
+      <h2 class="heading">Coming Soon</h2>
+      <div class="coming-container swiper">
+        <div class="swiper-wrapper upcoming">
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming1.jpg" alt="" />
+            </div>
+
+            <h3>Black Panther Wakanda Forever</h3>
+            <span>Expected: November 11 2022</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming2.jpg" alt="" />
+            </div>
+
+            <h3>Ant-Man and the Wasp: Quantumania</h3>
+            <span>Expected: February 17 2023</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming3.jpg" alt="" />
+            </div>
+
+            <h3>Guardians of the Galaxy Vol. 3</h3>
+            <span>Expected: May 5 2023</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming4.jpg" alt="" />
+            </div>
+
+            <h3>The Marvels</h3>
+            <span>Expected: July 28 2023</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming5.jpg" alt="" />
+            </div>
+
+            <h3>Blade</h3>
+            <span>Expected: November 3 2023</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming6.jpg" alt="" />
+            </div>
+
+            <h3>Captain America: New World Order</h3>
+            <span>Expected: May 3 2024</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming7.jpg" alt="" />
+            </div>
+
+            <h3>Thunderbolts</h3>
+            <span>Expected: July 26 2024</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming8.jpg" alt="" />
+            </div>
+
+            <h3>Fantastic Four</h3>
+            <span>Expected: November 8 2024</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming9.jpg" alt="" />
+            </div>
+
+            <h3>Avengers: The Kang Dynasty</h3>
+            <span>Expected: May 10 2025</span>
+          </div>
+
+          <div class="swiper-slide box">
+            <div class="box-img">
+              <img src="./img/coming10.jpg" alt="" />
+            </div>
+
+            <h3>Avengers: Secret Wars</h3>
+            <span>Expected: November 7 2025</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase I</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase II</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase III</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase IV</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase V</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="movies">
+      <h2 class="heading">Phase VI</h2>
+      <div class="movies-container"></div>
+    </section>
+
+    <section class="footer">
+      <a href="index.html">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg"
+          alt="marvel-logo"
+          class="logo"
+        />
+      </a>
+
+      <div class="social">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          ><i class="bx bxl-facebook"></i
+        ></a>
+        <a href="https://twitter.com/W35573"><i class="bx bxl-twitter"></i></a>
+        <a href="https://www.instagram.com/w35573"
+          ><i class="bx bxl-instagram"></i
+        ></a>
+        <a href="https://github.com/w35573"><i class="bx bxl-github"></i></a>
+      </div>
+    </section>
+
+    <div class="copyright">
+      <p>&#169; w35573 All Rights Reserved.</p>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"
+      defer
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"
+      integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+      defer
+    ></script>
+    <script src="./scripts/app.js" defer></script>
+  </body>
+</html>

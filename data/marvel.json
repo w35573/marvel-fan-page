@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Iron Man",
+      "release": "May 2008",
+      "summary": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+    },
+    {
+      "id": "1",
+      "title": "Incredible Hulk",
+      "release": "June 2008",
+      "summary": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe."
+    },
+    {
+      "id": "1",
+      "title": "Iron Man 2",
+      "release": "April 2010",
+      "summary": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies."
+    },
+    {
+      "id": "1",
+      "title": "Thor",
+      "release": "April 2011",
+      "summary": "Against his father Odin's will, The Mighty Thor – a powerful but arrogant warrior god – recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth."
+    },
+    {
+      "id": "1",
+      "title": "Captain America: The First Avenger",
+      "release": "April 2010",
+      "summary": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination."
+    },
+    {
+      "id": "1",
+      "title": "Avengers",
+      "release": "April 2012",
+      "summary": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!"
+    },
+    {
+      "id": "2",
+      "title": "Iron Man 3",
+      "release": "April 2013",
+      "summary": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+      "id": "2",
+      "title": "Thor: The Dark World",
+      "release": "October 2013",
+      "summary": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
+    },
+    {
+      "id": "2",
+      "title": "Captain America: The Winter Soldier",
+      "release": "March 2014",
+      "summary": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier."
+    },
+    {
+      "id": "2",
+      "title": "Guardians of the Galaxy",
+      "release": "July 2014",
+      "summary": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser."
+    },
+    {
+      "id": "2",
+      "title": "Avengers: Age of Ultron",
+      "release": "April 2015",
+      "summary": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure."
+    },
+    {
+      "id": "2",
+      "title": "Ant-Man",
+      "release": "July 2015",
+      "summary": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world."
+    },
+    {
+      "id": "3",
+      "title": "Captain America: Civil War",
+      "release": "April 2016",
+      "summary": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies."
+    },
+    {
+      "id": "3",
+      "title": "Doctor Strange",
+      "release": "October 2016",
+      "summary": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil."
+    },
+    {
+      "id": "3",
+      "title": "Guardians of the Galaxy: Vol 2",
+      "release": "April 2017",
+      "summary": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage."
+    },
+    {
+      "id": "3",
+      "title": "Spider-Man Homecoming",
+      "release": "July 2017",
+      "summary": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges."
+    },
+    {
+      "id": "3",
+      "title": "Thor Ragnarok",
+      "release": "October 2017",
+      "summary": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela."
+    },
+    {
+      "id": "3",
+      "title": "Black Panther",
+      "release": "February 2018",
+      "summary": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war."
+    },
+    {
+      "id": "3",
+      "title": "Avengers: Infinity War",
+      "release": "April 2018",
+      "summary": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+    },
+    {
+      "id": "3",
+      "title": "Ant-Man and the Wasp",
+      "release": "July 2018",
+      "summary": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission."
+    },
+    {
+      "id": "3",
+      "title": "Captain Marvel",
+      "release": "March 2019",
+      "summary": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe."
+    },
+    {
+      "id": "3",
+      "title": "Avengers: Endgame",
+      "release": "April 2019",
+      "summary": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+    },
+    {
+      "id": "3",
+      "title": "Spider-Man Far from Home",
+      "release": "June 2019",
+      "summary": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent."
+    },
+    {
+      "id": "4",
+      "title": "WandaVision",
+      "release": "January 2021",
+      "summary": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems."
+    },
+    {
+      "id": "4",
+      "title": "The Falcon and the Winter Soldier",
+      "release": "March 2021",
+      "summary": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience."
+    },
+    {
+      "id": "4",
+      "title": "Loki",
+      "release": "June 2021",
+      "summary": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat."
+    },
+    {
+      "id": "4",
+      "title": "Black Widow",
+      "release": "July 2021",
+      "summary": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger."
+    },
+    {
+      "id": "4",
+      "title": "What if...?",
+      "release": "August 2021",
+      "summary": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory."
+    },
+    {
+      "id": "4",
+      "title": "Shang-Chi and the legends of the ten rings",
+      "release": "September 2021",
+      "summary": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization."
+    },
+    {
+      "id": "4",
+      "title": "Eternals",
+      "release": "November 2021",
+      "summary": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants."
+    },
+    {
+      "id": "4",
+      "title": "Hawkeye",
+      "release": "November 2021",
+      "summary": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit."
+    },
+    {
+      "id": "4",
+      "title": "Spider-Man No Way Home",
+      "release": "December 2021",
+      "summary": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+    },
+    {
+      "id": "4",
+      "title": "Moon Knight",
+      "release": "March 2022",
+      "summary": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt."
+    },
+    {
+      "id": "4",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "release": "May 2022",
+      "summary": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary."
+    },
+    {
+      "id": "4",
+      "title": "Ms. Marvel",
+      "release": "June 2022",
+      "summary": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?"
+    },
+    {
+      "id": "4",
+      "title": "Thor: Love and Thunder",
+      "release": "July 2022",
+      "summary": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late."
+    },
+    {
+      "id": "4",
+      "title": "I am Groot",
+      "release": "August 2022",
+      "summary": "A series of shorts featuring the seedling Groot along with several new and unusual characters."
+    },
+    {
+      "id": "4",
+      "title": "She Hulk",
+      "release": "August 2022",
+      "summary": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch super-powered hulk."
+    },
+    {
+      "id": "4",
+      "title": "Black Panther: Wakanda Forever",
+      "release": "November 2021",
+      "summary": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda."
+    },
+    {
+      "id": "5",
+      "title": "Guardians of the Galaxy: Holiday Special",
+      "release": "December 2022",
+      "summary": "The Guardians of the Galaxy Holiday Special is an upcoming American television special created, written, and directed by James Gunn for the streaming service Disney+, based on the Marvel Comics superhero team Guardians of the Galaxy. It is intended to be the second television special in the Marvel Cinematic Universe (MCU), sharing continuity with the films of the franchise. The special is produced by Marvel Studios."
+    },
+    {
+      "id": "5",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "release": "February 2023",
+      "summary": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible."
+    },
+    {
+      "id": "5",
+      "title": "Secret Invasion",
+      "release": "Spring 2023",
+      "summary": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years."
+    },
+    {
+      "id": "5",
+      "title": "Guardians of the Galaxy: Vol 3",
+      "release": "May 2023",
+      "summary": "Star-Lord, still reeling from the loss of Gamora, must rally his team to defend the universe along with protecting one of their own. A mission that, if not completed, could lead to the end of the Guardians as we know them."
+    },
+    {
+      "id": "5",
+      "title": "The Marvels",
+      "release": "July 2023",
+      "summary": "The sequel to Captain Marvel (2019)."
+    },
+    {
+      "id": "5",
+      "title": "Echo",
+      "release": "Summer 2023",
+      "summary": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward."
+    },
+    {
+      "id": "5",
+      "title": "Iron Heart",
+      "release": "Fall 2023",
+      "summary": "Genius inventor Riri Williams creates the most advanced suit of armor since Iron Man and becomes Ironheart."
+    },
+    {
+      "id": "5",
+      "title": "Agatha Coven of Chaos",
+      "release": "Winter 2023",
+      "summary": "Follows Agatha Harkness before and after her appearance in WandaVision."
+    },
+    {
+      "id": "5",
+      "title": "Blade",
+      "release": "November 2023",
+      "summary": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics character of the same name."
+    },
+    {
+      "id": "5",
+      "title": "Daredevil: Born Again",
+      "release": "Spring 2024",
+      "summary": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe."
+    },
+    {
+      "id": "5",
+      "title": "Captain America: New World Order",
+      "release": "May 2024",
+      "summary": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America."
+    },
+    {
+      "id": "5",
+      "title": "Thunderbolts",
+      "release": "July 2024",
+      "summary": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name."
+    },
+    {
+      "id": "6",
+      "title": "Fantastic Four",
+      "release": "November 2024",
+      "summary": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name"
+    },
+    {
+      "id": "6",
+      "title": "Avengers: The Kang Dynasty",
+      "release": "April 2025",
+      "summary": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga."
+    },
+    {
+      "id": "6",
+      "title": "Avengers: Secret Wars",
+      "release": "November 2025",
+      "summary": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga."
+    }
+  ]
+}

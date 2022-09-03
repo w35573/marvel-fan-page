@@ -1,0 +1,170 @@
+{
+  "1": {
+    "1": {
+      "movie": "Iron Man",
+      "release": "May 2 2008"
+    },
+    "2": {
+      "movie": "The Incredible Hulk",
+      "release": "June 13 2008"
+    },
+    "3": {
+      "movie": "Iron Man 2",
+      "release": "May 7 2010"
+    },
+    "4": {
+      "movie": "Thor",
+      "release": "May 6 2011"
+    },
+    "5": {
+      "movie": "Captain America: The First Avenger",
+      "release": "July 22 2011"
+    },
+    "6": {
+      "movie": "Marvel's The Avengers",
+      "release": "May 4 2012"
+    }
+  },
+  "2": {
+    "1": {
+      "movie": "Iron Man 3",
+      "release": "May 3 2013"
+    },
+    "2": {
+      "movie": "Thor: The Dark World",
+      "release": "November 8 2013"
+    },
+    "3": {
+      "movie": "Captain America: The Winter Soldier",
+      "release": "April 4 2014"
+    },
+    "4": {
+      "movie": "Guardians of the Galaxy",
+      "release": "August 1 2014"
+    },
+    "5": {
+      "movie": "Avengers: Age of Ultron",
+      "release": "May 1 2015"
+    },
+    "6": {
+      "movie": "Ant-Man",
+      "release": "July 17 2015"
+    }
+  },
+  "3": {
+    "1": {
+      "movie": "Captain America: Civil War",
+      "release": "May 6 2016"
+    },
+    "2": {
+      "movie": "Doctor Strange",
+      "release": "November 4 2016"
+    },
+    "3": {
+      "movie": "Guardians of the Galaxy Vol. 2",
+      "release": "May 5 2017"
+    },
+    "4": {
+      "movie": "Spider-Man: Homecoming",
+      "release": "July 7 2017"
+    },
+    "5": {
+      "movie": "Thor: Ragnarok",
+      "release": "November 3 2017"
+    },
+    "6": {
+      "movie": "Black Panther",
+      "release": "February 16 2018"
+    },
+    "7": {
+      "movie": "Avengers: Infinity War",
+      "release": "April 27 2018"
+    },
+    "8": {
+      "movie": "Ant-Man and the Wasp",
+      "release": "July 6 2018"
+    },
+    "9": {
+      "movie": "Captain Marvel",
+      "release": "March 8 2019"
+    },
+    "10": {
+      "movie": "Avengers: Endgame",
+      "release": "April 26 2019"
+    },
+    "11": {
+      "movie": "Spider-Man: Far From Home",
+      "release": "July 2 2019"
+    }
+  },
+  "4": {
+    "1": {
+      "movie": "Black Widow",
+      "release": "July 9 2021"
+    },
+    "2": {
+      "movie": "Shang-Chi and the Legend of the Ten Rings",
+      "release": "September 3 2021"
+    },
+    "3": {
+      "movie": "Eternals",
+      "release": "November 5 2021"
+    },
+    "4": {
+      "movie": "Spider-Man: No Way Home",
+      "release": "December 17 2021"
+    },
+    "5": {
+      "movie": "Doctor Strange in the Multiverse of Madness",
+      "release": "May 6 2022"
+    },
+    "6": {
+      "movie": "Thor: Love and Thunder",
+      "release": "July 8 2022"
+    },
+    "7": {
+      "movie": "Black Panther: Wakanda Forever",
+      "release": "November 11 2022"
+    }
+  },
+  "5": {
+    "1": {
+      "movie": "Ant-Man and the Wasp: Quantumania",
+      "release": "February 17 2023"
+    },
+    "2": {
+      "movie": "Guardians of the Galaxy Vol. 3",
+      "release": "May 5 2023"
+    },
+    "3": {
+      "movie": "The Marvels",
+      "release": "July 28 2023"
+    },
+    "4": {
+      "movie": "Blade",
+      "release": "November 3 2023"
+    },
+    "5": {
+      "movie": "Captain America: New World Order",
+      "release": "May 3 2024"
+    },
+    "6": {
+      "movie": "Thunderbolts",
+      "release": "July 26 2024"
+    }
+  },
+  "6": {
+    "1": {
+      "movie": "Fantastic Four",
+      "release": "November 8 2024"
+    },
+    "2": {
+      "movie": "Avengers: The Kang Dynasty",
+      "release": "May 2 2025"
+    },
+    "3": {
+      "movie": "Avengers: Secret Wars",
+      "release": "November 7 2025"
+    }
+  }
+}
