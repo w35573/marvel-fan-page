@@ -421,11 +421,17 @@ p:nth-of-type(3) {
 }
 
 #fp-nav {
-  max-height: 80vh;
+  max-height: 98vh;
 }
 
 #fp-nav span {
   background-color: #fff !important;
+}
+
+#fp-nav ul li {
+  margin: 3px !important;
+  max-width: 7px !important;
+  max-height: 7px !important;
 }
 
 .fp-watermark {
